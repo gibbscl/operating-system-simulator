@@ -1,5 +1,5 @@
 # Operating System Simulator
-This project was done back in 2017, it is a simple application for simulating an operating system. Current setup runs 4 cores on the CPU, can be edited to run as many cores as is user-defined with multi-threading.
+This project was done back in 2017, it is a simple application for simulating an operating system. Current setup runs 4 cores on the CPU, can be edited to run as many cores as is user-defined along CPU threading.
 
 `src/components` 
 Contains the various hardware and software components classes
